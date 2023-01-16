@@ -1,0 +1,3 @@
+camera="usb"
+camera_usb_options="-r 2560x1440 -f 30 -d /dev/v41/by-id/usb-Generic_USB_Camera_200901010001-video-index0"
+camera_http_options="-n -p 8081"
